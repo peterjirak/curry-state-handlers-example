@@ -1,6 +1,6 @@
 # Project
 
-This is a project I created as a part of reading and understanding [Currying State Handlers in React](https://dev.to/s0meon3/currying-state-handlers-in-react-2ap1)
+This project contains the example project from [Currying State Handlers in React](https://dev.to/s0meon3/currying-state-handlers-in-react-2ap1)
 
 # Getting Started with Create React App
 
